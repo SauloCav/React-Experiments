@@ -1,6 +1,6 @@
 
 function App() {
-  return <h1>Ximira</h1>
+  return <h1>Ximira Xelo</h1>
 }
 
 export default App
